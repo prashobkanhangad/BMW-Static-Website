@@ -1,0 +1,422 @@
+body {
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.mainbody {
+    width: 100%;
+    height: 5300px;
+    background: rgb(255, 255, 255);
+
+
+}
+
+.ubody {
+    width: 100%;
+    height: 950px;
+    background-image: url('https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/Images/Topics/Insights/wearem/M4_50Years5-1680x7561.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1660196405405.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+ 
+
+}
+
+.first_line {
+    width: 76%;
+    height: 180px;
+    margin-left: 12%;
+
+
+}
+
+.first_line_1 {
+    width: 76%;
+    height: 180px;
+
+}
+
+.line_one {
+    width: 100%;
+    height: 0.2%;
+    color: white;
+}
+
+
+.table_1 {
+    font-size: 22px;
+    color: white;
+    width: 750px;
+    padding-top: 40px;
+    padding-left: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+
+}
+
+
+
+.mainline {
+    width: 300px;
+    height: 300px;
+    color: rgb(0, 0, 0);
+}
+
+.logo {
+    margin-left: 1500px;
+    width: 75px;
+
+}
+
+.year {
+    width: 1000px;
+    height: 100px;
+    color: rgb(255, 255, 255);
+}
+
+.year2 {
+
+    font-size: 63px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 100px;
+}
+
+.knowmore {
+    width: 400px;
+    height: 70px;
+    background: #1c69d4;
+    margin-left: 10.5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.more {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* padding-left: 100px; */
+    text-align: center;
+
+
+
+}
+
+
+.line_1 {
+    width: 100%;
+    height: 0.2%;
+    background: rgb(255, 255, 255);
+
+}
+
+.one_two_body {
+    width: 100%;
+    height: 472px;
+    background: white;
+}
+
+
+
+.one_body {
+
+    width: 49.75%;
+    height: 472px;
+    background-image: url('https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/all-models/i-series/i4/2021/ix-and-i4.png/jcr:content/renditions/cq5dam.resized.img.1680.large.time1654668670870.png');
+    background-size: contain;
+    float: left;
+    background-repeat: no-repeat;
+
+
+}
+
+.line_2 {
+    width: 0.5%;
+    height: 472px;
+    background: rgb(255, 255, 255);
+    float: left;
+
+}
+
+.two_body {
+
+    width: 49.75%;
+    height: 472px;
+    background-image: url('https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/teaserimages/1680.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1652337470674.jpg');
+    background-size: contain;
+    float: left;
+    background-repeat: no-repeat;
+
+}
+
+.inner_body {
+    width: 74%;
+    height: 400px;
+    margin-left: 13%;
+    background-color: rgb(147, 52, 52);
+
+
+}
+
+.inner_body_1 {
+
+    width: 100%;
+    height: 150px;
+    background: rgb(255, 255, 255);
+    margin-top: 50px;
+
+}
+
+.series {
+    font-size: 23px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 30px;
+    padding-top: 10px;
+    width: 400px;
+    cursor: pointer;
+
+}
+
+.series_2 {
+    font-size: 23px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 30px;
+    padding-top: 40px;
+    width: 800px;
+    cursor: pointer;
+
+}
+
+.line_3 {
+    width: 100%;
+    height: 0.4%;
+    background: rgb(41, 26, 26);
+    margin-top: 15px;
+
+}
+
+.photos {
+
+    width: 100%;
+    height: 500px;
+    background: rgb(255, 255, 255);
+}
+
+.photoclass {
+    width: 25%;
+    height: 500px;
+    float: left;
+    background: rgb(255, 255, 255);
+
+
+}
+
+.photo1 {
+    width: 90%;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.name {
+
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.varient {
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.phototext {
+
+    width: 100%;
+    height: 220px;
+    background: rgb(255, 255, 255);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 30px;
+
+}
+
+.rate {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sec {
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+
+.configurediv {
+    width: 100%;
+    height: 900px;
+    background: rgb(255, 255, 255);
+}
+
+.model0 {
+
+    width: 100%;
+    height: 50px;
+
+}
+
+.model {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.configurephoto {
+    width: 30%;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 3%;
+    float: left;
+
+}
+
+.configurephotoback {
+
+    background-image: url('preconfiguration-limbic-harmoniser\ \(1\).jpg');
+    width: 100%;
+    height: 230px;
+    margin-top: 40px;
+
+}
+
+.configurephotoback2 {
+
+    background-image: url('https://www.bmw.in/content/dam/bmw/common/preconfiguration/preconfiguration-limbic-hedonist.jpg');
+    width: 100%;
+    height: 230px;
+    margin-top: 40px;
+
+}
+
+
+.configurephotofront {
+
+    margin-top: 60px;
+}
+
+.configurenow {
+    width: 100%;
+    height: 65px;
+    margin-top: 120px;
+    background: rgb(255, 255, 255);
+    border-color: black;
+    border-width: 1.5px;
+    border-style: solid;
+    cursor: pointer;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.now {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.textdive {
+
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 25px;
+    padding-left: 20px;
+}
+
+.secondinner {
+
+    width: 100%;
+
+    height: 1430px;
+    background: #ffffff;
+    margin-left: 0%;
+
+
+}
+
+.box_1 {
+    width: 49%;
+    height: 650px;
+    margin: .4%;
+    border-style: solid;
+    border-width: .5px;
+    border-color: rgb(0, 0, 0);
+    float: left;
+
+
+}
+
+.boxphoto {
+    width: 96%;
+    margin: 2%;
+    cursor: pointer;
+}
+
+.bmwtext {
+    font-size: 43px;
+    padding-left: 15px;
+    margin-top: 0px;
+}
+
+.bmwtext2 {
+    font-size: 19px;
+    padding-left: 15px;
+    margin-top: 20px;
+    line-height: 30px;
+
+}
+
+.smallbox {
+    width: 100%;
+    height: 210px;
+    background: rgb(255, 255, 255);
+}
+
+.smallbox1 {
+    width: 19%;
+    height: 190px;
+    background: #f2f2f2;
+    margin: 0.5%;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.footer {
+    width: 100%;
+    height: 300px;
+    background: #e6e6e6
+}
+
+.table_1 {
+    color: #000000;
+    width: 100%;
+    text-align: left;
+    line-height: 50px;
+    margin-left: 100px;
+}
